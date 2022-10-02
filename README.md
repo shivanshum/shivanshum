@@ -11,6 +11,6 @@ Here are some ideas to get you started:-->
 - 🤔 I’m looking for help with front end applications. ideally displaying the Data science results on a website.
 - 💬 Ask me about anything data-science related, and I'll be happy to help you out. I love talking about this!
 - 📫 How to reach me email me or connect on LinkedIn.
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact I love listning to music all the time 24/7.
 
+### Connect with me:
